@@ -28,4 +28,5 @@ THEN I am taken to the corresponding section of the README
 
 
  ## VIDEO
- [![VIDEO DEMO]([https://markdown_thumbnail.jpg](https://dochub.com/sonianyenkan80/0YkWQ4BwYY2jMbrwpl7A8q/09-node-js-png?dt=rPnQeGdgcgqPQg7trpX4)https://dochub.com/sonianyenkan80/0YkWQ4BwYY2jMbrwpl7A8q/09-node-js-png?dt=rPnQeGdgcgqPQg7trpX4)]([https://09-Node.js.webm](https://drive.google.com/file/d/1O7esfyrfor1JyWKfUqEyOfvv_dYtw7sZ/view?usp=sharing)https://drive.google.com/file/d/1O7esfyrfor1JyWKfUqEyOfvv_dYtw7sZ/view?usp=sharing)
+[![VIDEO DEMO](https://markdown_thumbnail.jpg)](https://dochub.com/sonianyenkan80/0YkWQ4BwYY2jMbrwpl7A8q/09-node-js-png?dt=rPnQeGdgcgqPQg7trpX4)
+[![Click to watch the video](https://09-Node.js.webm)](https://drive.google.com/file/d/1O7esfyrfor1JyWKfUqEyOfvv_dYtw7sZ/view?usp=sharing)
