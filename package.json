@@ -1,7 +1,7 @@
 {
-  "name": "static-site",
+  "name": "generate-readme",
   "version": "1.0.0",
-  "description": "",
+  "description": "<!-- On-the-job ticket or feature request Challenges -->",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
