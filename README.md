@@ -33,5 +33,5 @@ THEN I am taken to the corresponding section of the README
  [![VIDEO DEMO](https://markdown_thumbnail.jpg)](https://Link_to_Video)
 
 
-Link To Deployed Page:
+Link To Deployed Page: https://sfrancesny.github.io/GenerateREADMEfile/
 
